@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primary_background_color"
+    tools:context=".Register">
+
+
+    <Button
+        android:id="@+id/reg_ind_btn"
+        android:layout_width="267dp"
+        android:layout_height="61dp"
+        android:layout_marginTop="54dp"
+        android:background="@drawable/button"
+        android:shadowColor="#221F1F"
+        android:text="@string/Reg1_Individual"
+        android:textColor="@color/white"
+        android:textAllCaps="false"
+        android:textStyle="bold"
+        app:backgroundTint="@color/new_primary"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView29"
+        tools:ignore="TextSizeCheck" />
+
+    <Button
+        android:id="@+id/reg_org_btn"
+        android:layout_width="278dp"
+        android:layout_height="57dp"
+        android:background="@drawable/button"
+        android:backgroundTint="@color/primarybutton"
+        android:text="@string/Reg1_organization"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:textColor="@color/login_input"
+        app:backgroundTint="@color/new_secondary"
+        app:cornerRadius="50dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/reg_ind_btn"
+        app:layout_constraintVertical_bias="0.166"
+        app:strokeColor="#FFFFFF"
+        app:strokeWidth="1dp"
+        tools:ignore="TextSizeCheck" />
+
+    <ImageView
+        android:id="@+id/imageView29"
+        android:layout_width="118dp"
+        android:layout_height="249dp"
+        android:layout_marginTop="108dp"
+        android:contentDescription="@string/mealmateicon"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo_gradient"
+        tools:ignore="ImageContrastCheck" />
+
+    <TextView
+        android:id="@+id/textView25"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/app_name_login"
+        android:textColor="@color/new_secondary"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/imageView29"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

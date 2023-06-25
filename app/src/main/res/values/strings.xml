@@ -1,0 +1,150 @@
+<resources>
+    <string name="app_name">Meal Mate</string>
+    <string name="Reg1_Individual">Register as an Individual</string>
+    <string name="Reg1_organization">Register as an Organization</string>
+
+    <string name="forget_password">forget_password</string>
+    <string name="Password6">PASSWORD</string>
+    <string name="reset_password">Your password has been updated!</string>
+    <string name="Email">Email</string>
+    <string name="makeSelection">Make</string>
+    <string name="makeselection">Make Selection</string>
+    <string name="contentdetails">Select which Contect Details should we used to select\nyour password</string>
+    <string name="make">Make</string>
+    <string name="Type">Type</string>
+    <string name="GIVE">GIVE</string>
+    <string name="sign_in">Sign in</string>
+    <string name="username">email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="or_sign_in_with">or sign in with</string>
+    <string name="i_have_extras">Let\'s Share</string>
+    <string name="select_type">Enter Type:</string>
+    <string name="quantity">Quantity:</string>
+    <string name="description">Description:</string>
+    <string name="enter_description">Enter description</string>
+    <string name="as_an_anonymous">As an anonymous</string>
+    <string name="confirm">Confirm</string>
+    <string name="back">BACK</string>
+    <string name="contact">CONTACT</string>
+    <string name="number">  Number</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="confirm2">Confirm</string>
+    <string name="cansel">Cansel</string>
+    <string name="make1">MAKE</string>
+    <string name="selection">SELECTION</string>
+    <string name="via_sms">Via SMS</string>
+    <string name="via_mail">Via mail</string>
+    <string name="exsample_gmail_com">exsample@gamil.com</string>
+    <string name="type">Type:</string>
+    <string name="chicken">Chicken</string>
+    <string name="update">LOGIN</string>
+    <string name="quantityy">Quantity:</string>
+    <string name="_5">5</string>
+    <string name="update2">Update</string>
+    <string name="description2">Description:</string>
+    <string name="sliit_basement_canteen">SLIIT Basement Canteen</string>
+    <string name="update3">Update</string>
+    <string name="name">Name:</string>
+    <string name="ekanayaka_h_e_m_p_l">Ekanayaka H.E.M.P.L</string>
+    <string name="update4">Update</string>
+    <string name="save">Save</string>
+    <string name="enter_quantity">Enter quantity</string>
+    <string name="xxxxxxxxxx">+XXXXXXXXXX</string>
+    <string name="_94xxxxxxxxx">      +94XXXXXXXXX</string>
+    <string name="_94xxxxxxxxxx">+94XXXXXXXXX</string>
+    <string name="next">NEXT</string>
+    <string name="newcredentials2">CREDENTIALS</string>
+    <string name="new1">NEW</string>
+    <string name="username4">new Username</string>
+    <string name="newpassword">new Password</string>
+    <string name="password5">PASSWORD</string>
+    <string name="updaated">UPDATED</string>
+    <string name="forget_password2">FORGET</string>
+    <string name="NEWCorentials1">Your identity has been verified!\nSet your new password</string>
+
+    <string-array name="food_type">
+        <item>Vegetable</item>
+        <item>Age</item>
+        <item>Fish</item>
+        <item>Chicken</item>
+        <item>Pork</item>
+        <item>Beef</item>
+    </string-array>
+
+
+    <string name="location_name_dashboard">Location</string>
+    <string name="vegi_meal_per">Vegi 40% </string>
+    <string name="non_vegi_per">Non vegi 60%</string>
+
+    <string name="Name_of_donater_dashboard">Ashan</string>
+    <string name="qty_dashboard">quantity - 2</string>
+    <string name="Desciption_dashboard">Vegetarian food</string>
+
+    <string name="Register">Register</string>
+    <string name="reg_name">Enter your name</string>
+    <string name="reg_email">Email address</string>
+    <string name="nic_reg">NIC</string>
+
+
+    <string name="item_details">Meal Details</string>
+    <string name="lahiru_jayawardhane">Lahiru Jayawardhane</string>
+    <string name="rice_and_curry">Rice and Curry</string>
+    <string name="_1_pack">1 pack</string>
+    <string name="i_m_in_basement_canteen_i_have_extra_rice_and_curry_pack_anyone_need_that_come_to_basement">I\'m in basement canteen, I have extra rice and curry pack, anyone need that come to basement</string>
+    <string name="request">Request</string>
+    <string name="cancel">cancel</string>
+
+    <string name="welcome_to_meal_mate_a_mobile_application_that_connects_people_who_have_extra_food_with_volunteers_who_are_interested_in_taking_the_food_our_mission_is_to_reduce_food_waste_and_promote_food_sharing_in_a_safe_and_convenient_way">Welcome to Meal Mate, a mobile application that connects people who have extra food with volunteers who are interested in taking the food. Our mission is to reduce food waste and promote food sharing in a safe and convenient way.</string>
+    <string name="our_app_is_designed_to_make_it_easy_for_users_to_share_their_extra_food_with_others_whether_you_have_leftovers_from_a_party_or_packaged_food_meal_mate_makes_it_easy_for_you_to_find_someone_who_can_use_it">Our app is designed to make it easy for users to share their extra food with others. Whether you have leftovers from a party, or packaged food, Meal Mate makes it easy for you to find someone who can use it.</string>
+    <string name="we_believe_that_food_should_not_go_to_waste_when_there_are_people_who_are_hungry_by_using_our_app_you_are_not_only_helping_to_reduce_food_waste_but_you_are_also_contributing_to_a_more_sustainable_and_equitable_food_system">We believe that food should not go to waste when there are people who are hungry. By using our app, you are not only helping to reduce food waste, but you are also contributing to a more sustainable and equitable food system.</string>
+    <string name="we_take_the_safety_of_our_users_very_seriously_that_s_why_we_have_built_in_features_that_allow_users_to_verify_their_identities_communicate_securely_and_rate_their_experiences_with_each_other_we_also_provide_guidelines_and_tips_for_safe_food_sharing_through_the_app">We take the safety of our users very seriously. That\'s why we have built in features that allow users to verify their identities, communicate securely, and rate their experiences with each other. We also provide guidelines and tips for safe food sharing through the app.</string>
+    <string name="about_us">About Us</string>
+    <string name="terms_of_service">Terms Of Service</string>
+    <string name="introduction">Introduction</string>
+    <string name="welcome_to_meal_mate_a_mobile_application_that_connects_people_who_have_extra_food_with_volunteers_who_are_interested_in_taking_the_food_these_terms_and_conditions_terms_govern_your_access_to_and_use_of_the_meal_mate_app_and_its_services_by_using_the_app_you_agree_to_be_bound_by_these_terms_if_you_do_not_agree_with_any_of_these_terms_you_may_not_use_the_app">Welcome to Meal Mate, a mobile application that connects people who have extra food with volunteers who are interested in taking the food. These Terms and Conditions (Terms) govern your access to and use of the Meal Mate app and its services. By using the app, you agree to be bound by these Terms. If you do not agree with any of these Terms, you may not use the app.</string>
+    <string name="eligibility">Eligibility</string>
+    <string name="the_meal_mate_app_is_available_to_anyone_who_has_access_to_it_by_using_the_app_you_represent_and_warrant_that_you_have_the_legal_capacity_to_enter_into_these_terms">The Meal Mate app is available to anyone who has access to it. By using the app, you represent and warrant that you have the legal capacity to enter into these Terms.</string>
+    <string name="food_sharing">Food Sharing</string>
+    <string name="the_meal_mate_app_is_designed_to_facilitate_the_sharing_of_extra_food_between_individuals_the_app_does_not_guarantee_the_quality_or_safety_of_the_food_shared_through_the_app_and_users_assume_all_risks_associated_with_sharing_and_consuming_food_through_the_app">The Meal Mate app is designed to facilitate the sharing of extra food between individuals. The app does not guarantee the quality or safety of the food shared through the app, and users assume all risks associated with sharing and consuming food through the app.</string>
+    <string name="user_content">User Content</string>
+    <string name="you_are_solely_responsible_for_any_content_that_you_post_upload_or_otherwise_make_available_through_the_meal_mate_app_user_content_you_represent_and_warrant_that_your_user_content_does_not_infringe_any_third_party_rights_including_intellectual_property_rights_and_privacy_rights">You are solely responsible for any content that you post, upload, or otherwise make available through the Meal Mate app (User Content). You represent and warrant that your User Content does not infringe any third-party rights, including intellectual property rights and privacy rights.</string>
+
+
+    <string name="contact_us">Contact Us</string>
+    <string name="contact_us_name">  Name</string>
+    <string name="contact_us_email"> Email</string>
+    <string name="contact_us_subject">  Subject </string>
+    <string name="contact_us_discription">  Description</string>
+    <string name="contact_us_submit">  Submit</string>
+    <string name="Contact_us_hotline">Hotline</string>
+    <string name="contact_email">Email</string>
+    <string name="ourEmail">Example@gmail.com</string>
+    <string name="Reg1_topic">Welcome to Meal Mate</string>
+    <string name="reg_phonenum">Mobile Number</string>
+    <string name="reg_already_login">Login</string>
+    <string name="login_loginbutton">Login</string>
+    <string name="Reg_org">Register as an Organization</string>
+    <string name="reg_as_in">Register as an Individual</string>
+    <string name="your_name_org_reg">Enter your name</string>
+    <string name="reg_org_name">Name of the Organization</string>
+    <string name="addpalce_topic">Add Place</string>
+    <string name="signup_dont_haveacc">Don\'t have an account</string>
+    <string name="app_name_login">Meal Mate</string>
+    <string name="reg_alreadyhave">Already have an account</string>
+    <string name="mealmateicon">mealMateIcon</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="notice_title">Add Notice</string>
+    <string name="notice_publish_button">Publish</string>
+    <string name="notice_back_button">Back</string>
+    <string name="typeField">Enter Food type</string>
+    <string name="foodQuantity">Enter Food Quantity</string>
+    <string name="foodDescription">Enter Description</string>
+    <string name="profile">Profile</string>
+    <string name="dash_app_name">Meal Mate</string>
+    <string name="noticeDTopic">Your topic text here</string>
+    <string name="notice_single_details_topic">Your single details topic text here</string>
+
+
+</resources>
